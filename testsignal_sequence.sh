@@ -23,4 +23,4 @@
 ../src/hacktv -m ntsc --pixelrate 13500000 --samplerate 13500000 --testsignal philips16x9 --text1 "HackTV" --text2 "Test" --clockmode off ./test_1khz_5sec.wav
 ../src/hacktv -m ntsc --pixelrate 13500000 --samplerate 13500000 --testsignal philips16x9 --text1 "HackTV" --text2 "Test" --clockmode time ./test_1khz_5sec.wav
 ../src/hacktv -m ntsc --pixelrate 13500000 --samplerate 13500000 --testsignal philips16x9 --text1 "HackTV" --text2 "Test" --clockmode datetime ./test_1khz_5sec.wav
-../src/hacktv -m ntsc --pixelrate 13500000 --samplerate 13500000 --testsignal cbar --text1 "HackTV" --text2 "Test" --clockmode off ./test_1khz_5sec.wav
+../src/hacktv -m ntsc --pixelrate 13500000 --samplerate 13500000 --testsignal cbar ./test_1khz_5sec.wav
